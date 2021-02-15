@@ -1,0 +1,45 @@
+{
+"bg": "https://s2.glbimg.com/xt68jnmahl2tAIq-ZsZ0HQHsPHU=/0x1080/https://s2.glbimg.com/pgQymCGtbfNOk5ruxOU-Th2fp4o=/https://i.s3.glbimg.com/v1/AUTH_d15744df8e2a4490b8e2cd61b958473b/internal_photos/bs/2021/L/e/xIip8QSjmeABK1dOulaQ/bbb-21-alternativa-onair.jpg", 
+"title": "Quiz BBB21", 
+"description": "Quiz sobre o maior reality do Brasil", 
+"questions": [
+    {
+        "image": "http://placehold.it/400x400", 
+        "title": "Questao numero 1",
+        "description": "Descrição da questão numero #01", 
+        "answer": 1, 
+        "alternatives": [
+            "Alternativa A",
+            "Alternativa B",
+            "Alternativa C",
+            "Alternativa D"
+        ]
+},
+{
+    "image": "http://placehold.it/400x400", 
+    "title": "Questao numero 2",
+    "description": "Descrição da questão numero #02", 
+    "answer": 2, 
+    "alternatives": [
+        "Alternativa A",
+        "Alternativa B",
+        "Alternativa C",
+        "Alternativa D"
+    ]
+}
+], 
+"external": [
+    "https://aluraquiz-v2.omariosouto.vercel.app/"
+], 
+"theme": {
+    "colors": {
+        "primary": "#581c62", 
+        "secondary": "#e7863c", 
+        "mainBg": "#8c2d51", 
+        "contrastText": "#f2eee9", 
+        "wrong": "#8a0000",
+        "success": "#00ff04"
+    }, 
+    "borderRadius": "4px"
+}
+}
