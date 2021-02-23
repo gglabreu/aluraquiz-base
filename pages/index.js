@@ -30,7 +30,7 @@ export default function Home() {
       <Widget>
          <Widget.Header>
            <h1>
-             Big Brother Brasil 21
+             Big Brother Brasil
            </h1>
          </Widget.Header>
          <Widget.Content>
