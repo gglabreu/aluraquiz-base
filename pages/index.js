@@ -30,12 +30,12 @@ export default function Home() {
       <Widget>
          <Widget.Header>
            <h1>
-             Big Brother Brasil
+             Mitologia Grega
            </h1>
          </Widget.Header>
          <Widget.Content>
          <p>
-           O maior reality show do Brasil
+           Um quiz sobre os mitos criados pelos gregos na antiguidade. 
          </p>
         </Widget.Content>
       </Widget>
